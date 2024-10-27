@@ -1,0 +1,126 @@
+﻿{
+    "grupos":[
+        {
+            "GrupoNro": "Grupo 1",
+            "Integrantes": [
+                "Huincamán Jerónimo",
+                "Valdevenito Valentino",
+                "Rojas ",
+                "Rodriguez Tomás",
+                "Di Luca Lucas"
+            ],
+            "NombreDelGrupo": "Codev",
+            "IconoDelGrupo": "./Images/codev-logo.png"
+        },
+        {
+            "GrupoNro": "Grupo 2",
+            "Integrantes": [
+                "Jara Mauro",
+                "Neculman Marcos",
+                "Rodriguez Mateo",
+                "Godoy Julián",
+                "Di Luca Tomás"
+            ],
+            "NombreDelGrupo": "Pixels",
+            "IconoDelGrupo": "./Images/pixels-logo.jpg"
+        },
+        {
+            "GrupoNro": "Grupo 3",
+            "Integrantes": [
+                "Pereyra Marina",
+                "Muñoz Lucio",
+                "Iborra Roxana"
+            ],
+            "NombreDelGrupo": "Fundación Mascotitas Del Sur",
+            "IconoDelGrupo": "./Images/mascotitas-logo.png"
+        },
+        {
+            "GrupoNro": "Grupo 4",
+            "Integrantes": [
+                "Aedo Maia",
+                "Azócar Lucas",
+                "Díaz Victoria",
+                "Méndez Leonardo",
+                "Ulloa Melina"
+            ],
+            "NombreDelGrupo": "Bazar Ogui",
+            "IconoDelGrupo": "./Images/bazarogui-logo.png"
+        },
+        {
+            "GrupoNro": "Grupo 5",
+            "Integrantes": [
+                "Cifuentes Gabriel",
+                "Conejero Jessica",
+                "Mora Eugenia",
+                "Garabito Nicolás",
+                "Skalmenca Ignacio"
+            ],
+            "NombreDelGrupo": "ITS Motors",
+            "IconoDelGrupo": "./Images/ITSMotors-logo.jpg"
+        },
+        {
+            "GrupoNro": "Grupo 6",
+            "Integrantes": [
+                "Bagnoni Bruno",
+                "Spagnolo Emiliano",
+                "Ferreyra Carlos"
+            ],
+            "NombreDelGrupo": "Escuela Rosalind Franklin",
+            "IconoDelGrupo": "./Images/Escuela-logo.jpg"
+        },
+        {
+            "GrupoNro": "Grupo 7",
+            "Integrantes": [
+                "Hueñir Rocío",
+                "Leglise Mariano",
+                "Testaseca Cristian",
+                "Parrota Federico",
+                "Coronel Bruno"
+            ],
+            "NombreDelGrupo": "Metal Code",
+            "IconoDelGrupo": "./Images/metalcode-logo.png"
+        },
+        {
+            "GrupoNro": "Grupo 8",
+            "Integrantes": [
+                "Campos Gianinna",
+                "Romero Rodrigo",
+                "Oyarzún Mailén"
+            ],
+            "NombreDelGrupo": "Sushi Agüi",
+            "IconoDelGrupo": "./Images/sushiagui-logo.png"
+        },        {
+            "GrupoNro": "Grupo 9",
+            "Integrantes": [
+                "Millahual Rayén",
+                "Beltrán Enzo"
+            ],
+            "NombreDelGrupo": "Petss",
+            "IconoDelGrupo": "./Images/petss-logo.jpg"
+        },
+        {
+            "GrupoNro": "Grupo 10",
+            "Integrantes": [
+                "Dykstra Esteban",
+                "Cerda Florencia",
+                "Román Azul"
+            ],
+            "NombreDelGrupo": "Art Store",
+            "IconoDelGrupo": "./Images/artstore-logo.png"
+        },
+        {
+            "GrupoNro": "Grupo 11",
+            "Integrantes": [
+                "Salvatierra Matías",
+                "Camacho Raul",
+                "Caporaso Manuel",
+                "Pereira Luciano",
+                "Rubilar Agustín",
+                "Durán Lucas",
+                "Tapia Gerónimo"
+            ],
+            "NombreDelGrupo": "Depologs",
+            "IconoDelGrupo": "./Images/depologs-logo.jpg"
+        }
+    ]
+}
